@@ -63,4 +63,4 @@ If this project help you, you can give me a tip ;)
 * Initial Release : 20 June 2017
 
 ### License
-* Py-SIM800L-SMS is distributed under the **LGPL** version 3 license.
+* _Py-SIM800L-SMS_ is distributed under the **LGPL** version 3 license.

@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf8 -*-
 
-import time
-import serial
+
 
 def USSDDecode():
     rep = phone.read_until('\n').decode('latin1', "replace")

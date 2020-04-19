@@ -5,7 +5,7 @@ import time
 import serial
 
 recipient = "+33751277743"
-message = "Hello, World!"
+message = "Fire in the kitchen!"
 
 phone = serial.Serial("/dev/ttyUSB0",  115200, timeout=2)
 try:

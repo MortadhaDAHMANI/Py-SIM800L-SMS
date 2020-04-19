@@ -1,26 +1,12 @@
-# Py-SIM800L :radio: :computer: :phone:
+# Py-SIM800L-SMS :radio: :computer: :phone: :incoming_envelope:
 
 ## Summary
-#### What is USSD?
-USSD (or Unstructured Supplementary Service Data) is an interactive, menu-based technology communication protocol available on every GSM-enabled mobile device.
+#### What is SMS?
+SMS (short message service) is a text messaging service component of most telephone, Internet, and mobile device systems. It uses standardized communication protocols to enable mobile devices to exchange short text messages. An intermediary service can facilitate a text-to-voice conversion to be sent to landlines. SMS was the most widely used data application at the end of 2010, with an estimated **3.5 billion** active users, or about 80% of all mobile subscribers.
 
-It is a session-based text communication without a store-and-forward mechanism (unlike SMS) that is practical for interactive communication, such as banking or education.
+SMS, as used on modern devices, originated from radio telegraphy in radio memo pagers that used standardized phone protocols. These were defined in **1985** as part of the Global System for Mobile Communications (GSM) series of standards. The first SMS message was sent in **1992**.
 
-USSD messages can have up to 182 alphanumeric characters and the time it takes from a request to a response is 2 seconds while it takes 6 seconds for an SMS to reach a mobile phone.
-
-#### What is the difference between USSD and SMS?
-
-While SMS is a store and forward technology, USSD texts and interactions are not stored on the mobile phone. SMS content remains stored in the mobile phone memory.
-
-#### Examples of USSD usage
-
-Some examples of service usage are airtime top-ups, "please call me" services, balance checking and mini statements delivery.
-
-#### What about USSD short codes?
-
-USSD short code format is defined by the * and # signs at the beginning and the end of the series of digits.
-
-There are three types of USSD short codes available. The standard rate USSD short code is charged the standard fee for the USSD menu usage by the end-user. Reverse-billed short codes are free for the end-user. Premium rate USSD short codes are charging the end user a premium price for short code triggering. Generally, USSD short codes are either reverse-billed or standard rate. 
+The protocols allowed users to send and receive messages of up to **160 characters** (when entirely alpha-numeric) to and from GSM mobiles. Although most SMS messages are mobile-to-mobile text messages, support for the service has expanded to include other mobile technologies, such as ANSI CDMA networks and Digital AMPS.
 
 ## Requirements
 - ``Python 2.7 or Python 3.4 and newer``
@@ -68,19 +54,13 @@ If this project help you, you can give me a tip ;)
 
 <a href="https://paypal.me/mamdpay" rel="In"> <img src="https://www.pngarts.com/files/4/Paypal-Donate-PNG-High-Quality-Image.png" alt="Donation" height="70"></a>
 
-<!--a href="https://www.linkedin.com/in/mortadhadahmani" rel="In"> <img src="https://ps.w.org/button-paypal-donation/assets/icon-256x256.jpg" alt="Donation" height="150"></a-->
-
-<!--a href="https://paypal.me/mamdpay" rel="In"> <img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg" alt="Donation" height="100"></a-->
-
-<!--a href="https://paypal.me/mamdpay" rel="In"> <img src="https://wildflowercottage.org/wp-content/uploads/2019/03/paypal_donate_button_png_996391.png" alt="Donation" height="150"></a-->
-
 ### Author
 * This version has been created by: [**Mortadha DAHMANI**](mailto:mortadha.dahmani@gmail.com)
 
 <a href="https://www.linkedin.com/in/mortadhadahmani" rel="In"> <img src="https://github.com/MortadhaDAHMANI/Py-SIM800L/raw/master/in2.jpg" alt="In" height="40"></a>
 
 ### Revision History
-* Initial Release : 25 Mars 2020
+* Initial Release : 20 June 2017
 
 ### License
-* Py-SIM800L is distributed under the **LGPL** version 3 license.
+* Py-SIM800L-SMS is distributed under the **LGPL** version 3 license.

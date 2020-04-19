@@ -2,7 +2,7 @@
 
 ## Summary
 #### What is SMS?
-SMS (short message service) is a text messaging service component of most telephone, Internet, and mobile device systems. It uses standardized communication protocols to enable mobile devices to exchange short text messages. An intermediary service can facilitate a text-to-voice conversion to be sent to landlines. SMS was the most widely used data application at the end of 2010, with an estimated **3.5 billion** active users, or about 80% of all mobile subscribers.
+SMS (*Short Message Service*) is a text messaging service component of most telephone, Internet, and mobile device systems. It uses standardized communication protocols to enable mobile devices to exchange short text messages. An intermediary service can facilitate a text-to-voice conversion to be sent to landlines. SMS was the most widely used data application at the end of 2010, with an estimated **3.5 billion** active users, or about 80% of all mobile subscribers.
 
 SMS, as used on modern devices, originated from radio telegraphy in radio memo pagers that used standardized phone protocols. These were defined in **1985** as part of the Global System for Mobile Communications (GSM) series of standards. The first SMS message was sent in **1992**.
 

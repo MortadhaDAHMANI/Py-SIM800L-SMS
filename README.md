@@ -40,6 +40,24 @@ contains examples, tests and the this documentation. By using PyPI, you will be 
 - NOTICE: Be prepared to handle huge power consumption with peek up to 2A. Maximum voltage on UART in this module is 2.8V. Higher voltage will kill the module.
 ```
 
+## SMS AT Commands
+Command	| Description |
+---------|-------------|
+AT+CPMS	| Preferred message storage |
+AT+CMGF	| Message format (we use format 0: PDU)|
+AT+CSCA	| Service centre address|
+AT+CSCB	| Select cell broadcast message types|
+AT+CNMI	| New message indications to TE|
+AT+CMGL	| List messages|
+AT+CMGR	| Read message|
+AT+CMGS	| Send message|
+AT+CMGD	| Delete message|
+AT+CMMS	| More messages to send|
+   +CMTI	| Notification of SMS message delivery|
+   +CMT	| Notification of a directly delievered SMS message|
+   +CDSI	| Notification of an SMS status report message|
+   +CBM	| Notification of a directly delivered cell broadcast message|
+
 ### Useful links
 * [AT Commands](https://nettigo.eu/attachments/386 "AT Commands")
 * [Hardware Design](https://nettigo.eu/attachments/385 "Hardware Design")
